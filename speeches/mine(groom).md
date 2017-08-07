@@ -1,3 +1,5 @@
+# August 7 2015
+
 On behalf of Christine and myself, thank you all for coming. Speaking for myself, I know I am nothing without the people who love and care for me in my life. I really don't know how we would  have done this without the help of everyone here. You've all been involved in some little (or large) way. Just an FYI: there's gonna be a lot of thank yous in this speech – buckle up!... So, thank you, first of all, to everyone who helped us along this path and who got us to this point. Dave & Kathy, and my parents: Mike and Pam – you are all so wonderful and supportive. I truly, truly love you guys. [Hey, uh, can we just clap for a moment??]
 
 Alight.. Thanks everyone.

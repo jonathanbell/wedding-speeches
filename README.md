@@ -1,8 +1,8 @@
-# Wedding Speeches
+# Wedding Speeches :heart:
 
-Just some wedding speeches. Feel free to draw inspiration from these.
+Just some wedding speeches. Feel free to draw inspiration from these. Forks and/or pull requests are welcome if you'd like to add your speech.
 
-## To View Markdown Speeches in Browser
+## To View Markdown Speech Files in Browser
 
 ```
 git clone git@github.com:jonathanbell/wedding-speeches.git
