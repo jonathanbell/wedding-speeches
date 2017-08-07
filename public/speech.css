@@ -1,0 +1,62 @@
+html {
+	font-family: -apple-system, BlinkMacSystemFont,
+		"Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+		"Fira Sans", "Droid Sans", "Helvetica Neue",
+	sans-serif;
+	box-sizing: border-box;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-rendering: optimizeLegibility;
+	margin: 0;
+}
+
+audio, video, img, iframe {
+	max-width: 100%;
+}
+
+p:empty {
+	display: none;
+}
+
+.home-link {
+	position: fixed;
+    top: 1px;
+    left: 3px;
+}
+
+h1, #speeches {
+	min-width: 200px;
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 45px;
+    padding-bottom: 0;
+    display: block;
+}
+
+#speeches li {
+	margin-left: 2rem;
+	padding-bottom: 3px;
+}
+
+.markdown-body {
+	box-sizing: border-box;
+	min-width: 200px;
+	max-width: 980px;
+	margin: 0 auto;
+	padding: 45px;
+}
+
+@media (max-width: 767px) {
+	.markdown-body {
+		padding: 15px;
+	}
+}
