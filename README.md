@@ -10,3 +10,5 @@ cd wedding-speeches
 npm install
 npm start
 ```
+
+Mini website will now be served at: http://localhost:6969
