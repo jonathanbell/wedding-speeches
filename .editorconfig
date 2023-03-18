@@ -9,9 +9,6 @@ charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
 
-[*.md]
-trim_trailing_whitespace = true
-
 [*.js]
 quote_type = single
 space_after_anonymous_functions = true
@@ -20,7 +17,3 @@ spaces_around_operators = true
 spaces_in_brackets = false
 curly_bracket_next_line = true
 indent_brace_style = 1TBS
-
-[*.pug]
-indent_style = space
-indent_size = 2
